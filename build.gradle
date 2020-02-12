@@ -8,9 +8,6 @@ version '0.9.0'
 sourceCompatibility = 1.8
 
 repositories {
-    maven {
-        url 'http://mini4.marci.com:8081/artifactory/libs-release'
-    }
     mavenCentral()
 }
 
